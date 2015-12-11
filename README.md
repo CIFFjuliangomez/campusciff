@@ -473,7 +473,7 @@ Date:   Sun Dec 6 19:34:27 2015 +0100
 ### 1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 
 :+1: Hecho
-![picture alt](/resources/Image5.png "Imagen5") 
+![picture alt](/resources/Image9.png "Imagen9") 
 
 ## 2.26 CREAR UNA ORGANIZACIÓN
 ### 1. Crear una organización llamada campusciff-tunombredeusuariodegithub
@@ -497,14 +497,14 @@ Date:   Sun Dec 6 19:34:27 2015 +0100
 
 Se deben haber asignado permisos a los miembros del equipo para poder subir páginas (en este caso solo los administradores)
 
-![picture alt](/resources/Image9.png "Imagen9") 
+![picture alt](/resources/Image7.png "Imagen7") 
 
 
 ## 2.29 CREAR PULL-REQUESTS
 ### 1. Hacer 2 forks de 2 repositorios campusciff- tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
-## 2. Crearos una rama en cada fork.
-## 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
-## 4. Con cada rama hacer un pull-request.
+### 2. Crearos una rama en cada fork.
+### 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+### 4. Con cada rama hacer un pull-request.
 
 :+1: Hecho
 
