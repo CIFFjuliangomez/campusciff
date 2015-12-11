@@ -128,7 +128,7 @@ To git@github.com:CIFFjuliangomez/campusciff.git
  * [new tag]         V0.1 -> V0.1
 MacBook-Pro-de-Julian:campusciff jgomez$ 
 
-![picture alt](https://dujk9xa5fr1wz.cloudfront.net/course/480x270/221696_d05a_4.jpg "Imagen4") 
+![picture alt](/resources/Image4.png "Imagen4") 
 
 
 
@@ -465,11 +465,11 @@ Date:   Sun Dec 6 19:34:27 2015 +0100
 ### 1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 
 :+1: Hecho
+![picture alt](/resources/Image5.png "Imagen5") 
 
 ## 2.26 CREAR UNA ORGANIZACIÓN
 ### 1. Crear una organización llamada campusciff-tunombredeusuariodegithub
 
-![picture alt](https://dujk9xa5fr1wz.cloudfront.net/course/480x270/221696_d05a_4.jpg "Imagen5") 
 
 
 ## 2.27 CREAR EQUIPOS
@@ -493,16 +493,19 @@ Date:   Sun Dec 6 19:34:27 2015 +0100
 
 Se deben haber asignado permisos a los miembros del equipo para poder subir páginas (en este caso solo los administradores)
 
-![picture alt](https://dujk9xa5fr1wz.cloudfront.net/course/480x270/221696_d05a_4.jpg "Imagen9") 
+![picture alt](/resources/Image9.png "Imagen9") 
 
 
 ## 2.29 CREAR PULL-REQUESTS
 ### 1. Hacer 2 forks de 2 repositorios campusciff- tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
-2. Crearos una rama en cada fork.
-3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
-4. Con cada rama hacer un pull-request.
+## 2. Crearos una rama en cada fork.
+## 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+## 4. Con cada rama hacer un pull-request.
 
+:+1: Hecho
 
+![picture alt](/resources/Image10.jpg "Imagen10") 
+![picture alt](/resources/Image11.jpg "Imagen11") 
 
  2.30 GESTIONAR PULL-REQUESTS
 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
