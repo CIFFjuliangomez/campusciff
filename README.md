@@ -10,8 +10,8 @@ Julián Gómez
 
 En la página web de github
 
-![picture alt](https://dujk9xa5fr1wz.cloudfront.net/course/480x270/221696_d05a_4.jpg "Imagen1") 
-![picture alt](https://dujk9xa5fr1wz.cloudfront.net/course/480x270/221696_d05a_4.jpg "Imagen2") 
+![picture alt](/resources/Image1.png "Imagen1") 
+![picture alt](/resources/Image2.png "Imagen2") 
 
 
 ##  2.2 REPOSITORIO CAMPUSCIFF (II)
