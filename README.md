@@ -77,25 +77,29 @@ MacBook-Pro-de-Julian:campusciff jgomez$
 ## 2.6 IGNORAR ARCHIVOS (2.6 IGNORAR ARCHIVOS (I)
 ### 1. Crear en el repositorio local un fichero llamado privado.txt.
 
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ vim privado.txt
 MacBook-Pro-de-Julian:campusciff jgomez$ 
-
+```
 ### 2. Crear en el repositorio local una carpeta llamada privada.
 
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ mkdir privada
 MacBook-Pro-de-Julian:campusciff jgomez$ 
-
+```
 ## 2.7 IGNORAR ARCHIVOS (II)
 ### 1. Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
 
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ cat .gitignore
 privado.txt
 /privada
-
+```
 
 ## 2.8 AÑADIR FICHERO 1.TXT
 ### 1. Añadir fichero 1.txt al repositorio local.
  
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ vim 1.txt
 MacBook-Pro-de-Julian:campusciff jgomez$ git add .
 MacBook-Pro-de-Julian:campusciff jgomez$ git commit -m "añado fichero 1.txt"
@@ -103,20 +107,23 @@ MacBook-Pro-de-Julian:campusciff jgomez$ git commit -m "añado fichero 1.txt"
  2 files changed, 3 insertions(+)
  create mode 100644 .gitignore
  create mode 100644 1.txt
-
+```
  
 ## 2.9 CREAR EL TAG V0.1
 ### 1. Crear un tag v0.1.
 
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ git tag -a V0.1 -m "versión V0.1"
 MacBook-Pro-de-Julian:campusciff jgomez$ 
-
+```
 
 ## 2.10 SUBIR EL TAG V0.1
 ### Subir los cambios al repositorio remoto.
 
+
 git push --tag origin master  (Sustituir master por un nombre de rama si se desea crear una nueva rama en el servidor remoto)
 
+```
 MacBook-Pro-de-Julian:campusciff jgomez$ git push --tag origin master
 Counting objects: 5, done.
 Delta compression using up to 8 threads.
@@ -127,6 +134,7 @@ To git@github.com:CIFFjuliangomez/campusciff.git
    d079fdc..396ff5d  master -> master
  * [new tag]         V0.1 -> V0.1
 MacBook-Pro-de-Julian:campusciff jgomez$ 
+```
 
 ![picture alt](/resources/Image4.png "Imagen4") 
 
@@ -486,10 +494,6 @@ Date:   Sun Dec 6 19:34:27 2015 +0100
 
 ## 2.28 CREAR UN INDEX.HTML
 ### 1. Crear un index.html que se pueda ver como página web en la organización.
-```
-
-
-```
 
 Se deben haber asignado permisos a los miembros del equipo para poder subir páginas (en este caso solo los administradores)
 
@@ -507,5 +511,6 @@ Se deben haber asignado permisos a los miembros del equipo para poder subir pág
 ![picture alt](/resources/Image10.jpg "Imagen10") 
 ![picture alt](/resources/Image11.jpg "Imagen11") 
 
- 2.30 GESTIONAR PULL-REQUESTS
-1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+## 2.30 GESTIONAR PULL-REQUESTS
+### 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+:+1: Hecho
